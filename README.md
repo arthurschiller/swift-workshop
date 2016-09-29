@@ -4,14 +4,15 @@ Material for my Swift workshop about iOS Development for designers @FH Potsdam i
 
 <br>
 
-Learn Resources/Tools
+Resources/Tools
 ------
 
 - https://www.raywenderlich.com
 - https://designcode.io
 - https://www.udemy.com
 - https://cocoapods.org
-- https://github.com/Carthage/Carthage - http://www.swifttoolbox.io
+- https://github.com/Carthage/Carthage
+- http://www.swifttoolbox.io
 
 <br>
 
